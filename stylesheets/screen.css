@@ -1,0 +1,510 @@
+
+@import url(http://fonts.googleapis.com/css?family=Lora:400,400italic|Magra:400,700|Quattrocento+Sans|Raleway:100);
+
+html	{
+	font-family: 'Quattrocento Sans', sans-serif; 
+}
+
+#error	{
+	margin-left: 200px;
+	margin-top: 200px;
+	text-align: center;
+}
+
+#error ul {
+	list-style: none;
+}
+
+table {
+	margin-top: -30px;
+	margin-left: -25px;
+}
+
+p a {
+	text-decoration: none;
+	color: #000000;
+}
+
+#fashion-table	{
+	width: 500px;
+}
+
+#brand-image-photography-table	{
+	width: 600px;
+}
+
+#brand-experience-table	{
+	width: 500px;
+}
+
+#graphic-design-table	{
+	width: 300px;
+}
+
+#ideation-table	{
+	width: 300px;
+}
+
+#communication-table	{
+	width: 300px;
+}
+
+#creative-execution-table	{
+	width: 300px;
+}
+
+#brand-expression-table	{
+	width: 300px;	
+}
+
+td.image-td	{
+	width: 100px;
+	height: 125px;
+	text-align: center;
+}
+
+div.image-list-container	{
+	border: 1px solid #000000;
+}
+
+div.image-list-container ul.image-list {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	height: 125px;
+}
+
+li.image-item-container	{
+	border: 1px solid #000000;
+	top: 0px;
+	display: inline-block;
+}
+
+div.image-wrapper	{
+
+}
+
+li img.image-item-thumbnail {
+	
+}
+
+img.image-item {
+	
+}
+
+html	{
+
+}
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+html, body {
+	height: 100%;
+}
+
+table {
+	vertical-align: middle;
+	height: 100%;
+	width: 100%;
+}
+#container {
+	height: 931px;
+	width: 980px;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+body {
+
+}
+
+p {
+	margin: 0px;
+}
+
+#wrapper {
+	text-align: left;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#tree-container	{
+	position: absolute;
+}
+
+g.node {
+    font-size: 12px;
+	cursor: pointer
+}
+
+circle.node-dot {
+	fill: lightsalmon;
+	stroke: red;
+	stroke-width: 1px;;
+}
+
+circle.hover {
+	fill: darkblue;
+}
+
+path.link {
+	fill: none;
+	stroke: gray;
+}
+
+path.selected {
+	stroke: darkred;
+	fill: none;
+	stroke-width: 5px;
+}
+
+.other-font	{
+	
+}
+
+#wrap	{
+	text-align: center;
+}
+
+#image_wrapper	{
+	background: rgba(255, 255, 255, 0.7);
+	position: absolute;
+	padding: 10px;
+	top: 25px;
+	left: 50px;
+}
+
+#test_image	{
+	
+}
+
+#node-wrapper	{
+	
+}
+
+#node-meta-data-container	{
+	background-color: rgba(0, 0, 0, 0.7);
+	color: #FFFFFF;
+	left: 650px;
+	top: 260px;
+	width: auto;
+	height: auto;
+}
+
+#close-out	{
+	color: #FF1493;
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+
+p.item-text	{
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-size: 12px;
+	text-align: center;
+}
+
+p.other-item-text	{
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-size: 12px;
+	text-align: left;
+}
+
+#Broadway	{
+	height: 100px;
+	width: 300px;
+	position: absolute;
+	margin-top: 680px;
+	margin-left: -138px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Stage_Events	{
+	height: 100px;
+	width: 500px;
+	position: absolute;
+	margin-top: 785px;
+	margin-left: -145px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Recording_Labels	{
+	height: 100px;
+	width: 300px;
+	position: absolute;
+	margin-top: 710px;
+	margin-left: 630px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Celebrity_Packaging	{
+	height: 100px;
+	width: 250px;
+	position: absolute;
+	margin-top: 560px;
+	margin-left: 900px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Brand_Image_Photography	{
+	position: absolute;
+	margin-top: 75px;
+	margin-left: -115px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Fashion	{
+	position: absolute;
+	margin-top: 75px;
+	margin-left: -10px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Catalog	{
+	height: 100px;
+	width: 300px;
+	position: absolute;
+	top: 675px;
+	left: 50px;
+	display: none;
+}
+
+#Graphic_Design	{
+	position: absolute;
+	margin-top: 75px;
+	margin-left: 190px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Ash_Ledonne	{
+	height: 100px;
+	width: 300px;
+	position: absolute;
+	top: 850px;
+	left: 50px;
+	display: none;
+}
+
+#Marketing	{
+	height: 16px;
+	width: 400px;
+	position: absolute;
+	margin-top: 835px;
+	margin-left: 0px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Content	{
+	height: 16px;
+	width: 500px;
+	position: absolute;
+	margin-top: 870px;
+	margin-left: 460px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Exec_Producer	{
+	height: 16px;
+	width: 540px;
+	position: absolute;
+	margin-top: 905px;
+	margin-left: 455px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Ideation	{
+	position: absolute;
+	margin-top: 75px;
+	margin-left: 90px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Communication	{
+	position: absolute;
+	margin-top: 60px;
+	margin-left: -100px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;	
+}
+
+#Creative_Execution	{
+	position: absolute;
+	margin-top: 80px;
+	margin-left: -65px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Brand_Expression	{
+	position: absolute;
+	margin-top: 80px;
+	margin-left: 95px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;	
+}
+
+#Brand_Development	{
+	height: 100px;
+	width: 300px;
+	position: absolute;
+	margin-top: 570px;
+	margin-left: 750px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Brand_Development p {
+	text-align: left;
+}
+
+#Brand_Experience	{
+	position: absolute;
+	margin-top: 75px;
+	margin-left: -30px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;	
+}
+
+#Brand_Personality	{
+	height: 100px;
+	width: 250px;
+	position: absolute;
+	margin-top: 470px;
+	margin-left: 895px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#HME_Brand_Management	{
+	height: 100px;
+	width: 300px;
+	position: absolute;
+	margin-top: 80px;
+	margin-left: 720px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Network_Television	{
+	height: 16px;
+	width: 400px;
+	position: absolute;
+	margin-top: 775px;
+	margin-left: 705px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Made-for-TV_Movies	{
+	height: 16px;
+	width: 400px;
+	position: absolute;
+	top: 920px;
+	left: 975px;
+	display: none;
+}
+
+#Brand_Strategy	{
+	height: 100px;
+	width: 300px;
+	position: absolute;
+	margin-top: 190px;
+	margin-left: 110px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Creative_Direction	{
+	height: 100px;
+	width: 300px;
+	position: absolute;
+	margin-top: 230px;
+	margin-left: 30px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Caren_Martineau	{
+	height: 100px;
+	width: 300px;
+	position: absolute;
+	margin-top: 300px;
+	margin-left: -55px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Client_Management	{
+	height: 100px;
+	width: 300px;
+	position: absolute;
+	margin-top: 600px;
+	margin-left: -50px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Project_Management	{
+	height: 100px;
+	width: 500px;
+	position: absolute;
+	margin-top: 495px;
+	margin-left: -215px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#Project_Management ul {
+	font-family: 'Quattrocento Sans', sans-serif; 
+	font-size: 14px;
+}
+
+#Cross-Functional	{
+	height: 100px;
+	width: 575px;
+	position: absolute;
+	margin-top: 410px;
+	margin-left: -240px;
+	display: none;
+	margin-bottom: 0px;
+	padding: 0px;
+}
